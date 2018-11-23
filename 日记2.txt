@@ -1,3 +1,4 @@
 
 该吃午饭了
 修复了一个bug
+fix the second bug.
